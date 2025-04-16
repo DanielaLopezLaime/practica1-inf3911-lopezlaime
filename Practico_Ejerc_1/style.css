@@ -1,0 +1,25 @@
+/* Estilos personalizados para Mi Negocio */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1.5rem 0;
+}
